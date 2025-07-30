@@ -1,7 +1,8 @@
-.PHONY: build clean
+.PHONY: build
 
 build:
-	npx md-to-pdf "Vitalii Meshchaninov - Web Engineer.md"
-
-clean:
-	rm "Vitalii Meshchaninov - Web Engineer.pdf"
+	npx md-to-pdf \
+	--stylesheet styles.css \
+	--pdf-options '{"format": "A4", "margin": "15mm", "printBackground": true}' \
+	README.md \
+	&& mv README.pdf "Vitalii Meshchaninov - Web Engineer.pdf"

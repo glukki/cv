@@ -1,11 +1,3 @@
----
-stylesheet:
-pdf_options:
-  format: A4
-  margin: 15mm
-  printBackground: true
----
-
 # Vitalii Meshchaninov
 
 I'm a Fullstack Web Engineer with 15+ years of experience, including 10+ years of working remotely with startups and growing companies.
@@ -14,17 +6,17 @@ My primary tools: TypeScript, React, Node.js, shell. I love Rust, have Python ex
 
 I'm seeking a B2B engagement with a company outside of Spain. Or a direct employment with a visa sponsorship in Spain. This is due to the restrictions of my Digital Nomad visa.
 
-Location: Gandia, Valencia, Spain<br>
-Residence: Spain, Digital Nomad visa<br>
+Location: Gandia, Valencia, Spain <br>
+Residence: Spain, Digital Nomad visa <br>
 Languages: English (fluent), Spanish (basic), Russian (native)
 
 
 
 ## Contacts
 
-Email: vital.mesh@gmail.com<br>
-Phone: +34685531087<br>
-LinkedIn: https://linkedin.com/in/glukki<br>
+Email: vital.mesh@gmail.com <br>
+Phone: +34685531087 <br>
+LinkedIn: https://linkedin.com/in/glukki <br>
 GitHub: https://github.com/glukki
 
 
@@ -34,7 +26,7 @@ GitHub: https://github.com/glukki
 ### Web Engineer
 Squire · 2020 - 2025 · United States · Remote Full-time
 
-Catalog: https://getsquire.com/discover<br>
+Catalog: https://getsquire.com/discover <br>
 Booking: https://getsquire.com/booking/brands/glassbox
 
 #### Projects
@@ -67,12 +59,12 @@ Techs: apple pay, aws, bull, chai, ci/cd, cloudflare workers, css, cypress, data
 ### Full-Stack JavaScript Developer
 iQualify LXP · 2017 - 2020 · New Zealand · Remote Full-time
 
-Built a web app with Angular Universal from scratch.<br>
-Enabled Stripe payments.<br>
-Created proprietary Angular components library.<br>
-Converted Zombie.js tests to WebdriverIO.<br>
-Integrated app with Azure AD SSO.<br>
-Worked on AngularJS to Angular migration.<br>
+Built a web app with Angular Universal from scratch. <br>
+Enabled Stripe payments. <br>
+Created proprietary Angular components library. <br>
+Converted Zombie.js tests to WebdriverIO. <br>
+Integrated app with Azure AD SSO. <br>
+Worked on AngularJS to Angular migration. <br>
 Worked on the main web app development.
 
 Techs: angular, express.js, mongodb, node.js, stripe, typescript, webdriver.io
@@ -81,10 +73,10 @@ Techs: angular, express.js, mongodb, node.js, stripe, typescript, webdriver.io
 ### Senior Node.js Developer
 Johnson & Johnson · 2016 - 2017 · United States · Remote Full-time
 
-Created a REST API for mobile clients.<br>
-Implemented a data conversion mechanism to pass data between client and back-end microservices.<br>
-Worked in an Agile, design-driven environment.<br>
-Covered code with unit/integration tests.<br>
+Created a REST API for mobile clients. <br>
+Implemented a data conversion mechanism to pass data between client and back-end microservices. <br>
+Worked in an Agile, design-driven environment. <br>
+Covered code with unit/integration tests. <br>
 Supported CI/CD configuration.
 
 Techs: apigee, express.js, javascript, mocha, node.js, rest api, swagger
@@ -120,8 +112,8 @@ Techs: typescript, chrome extensions api
 
 https://github.com/glukki/kloomba
 
-Galcon-like location-based mobile MMO game.<br>
-Made a backend server and inspired 2 other people to make designs and an Android client.<br>
+Galcon-like location-based mobile MMO game. <br>
+Made a backend server and inspired 2 other people to make designs and an Android client. <br>
 Project closed soon after making the first working version.
 
 Techs: python, google app engine, protobuf, memcached
@@ -173,144 +165,10 @@ Helped beginners learn JavaScript, TypeScript, Node.js using interactive courses
 
 ## Education
 
-North-West State Technical University<br>
+North-West State Technical University <br>
 Engineer's degree, Management Information Systems and Services
 
 
 
 ## Techs
 Apple Pay, AWS, Bash/Fish, Bull, Chai, CI/CD, Cloudflare Workers, Cron, CSS, Cypress, Datadog, date-fns, Deno, Docker, ESlint, Express.js, Figma, Framer-Motion, Fullstory, Git, Github Actions, Go, Google Analytics, Google Calendar, Google Maps, Google Pay, GraphQL, HTML, i18next, Jenkins, Jest, JWT, Kafka, LaunchDarkly, Linux, Lit, Mapbox, microservices, Mocha, Moment.js, MongoDB, monorepo, MySQL, neovim, Nest.js, Next.js, Nginx, NixOS, Node.js, npm, OAuth, Parcel, Passport.js, PostGIS, PostgreSQL, Prettier, Prisma, Python, Radicle, React, React-Query, Redis, Rest API, Rust, S3, Sentry, Sequelize, SSR, Storybook, Stripe, Styled-Components, Styled-System, SVG, Tailwind, TypeScript, WebdriverIO, Webpack, WebStorm, Yarn, Zellij, Zustand
-
-
-<style>
-body,
-html {
-  color: rgba(0,0,0,.75);
-  font-size: 16px;
-  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, Adwaita Sans, Cantarell, Ubuntu, roboto, noto, helvetica, arial, sans-serif;
-  font-variant-ligatures: common-ligatures;
-  line-height: 1.67;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-blockquote,
-dl,
-ol,
-p,
-pre,
-ul {
-  margin: .5em 0;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin: 1em 0 .5em;
-  line-height: 1.33;
-}
-h1:after,
-h2:after {
-  content: "";
-  display: block;
-  position: relative;
-  top: .33em;
-  border-bottom: 1px solid hsla(0,0%,50%,.33);
-}
-ol ol,
-ol ul,
-ul ol,
-ul ul {
-  margin: 0;
-}
-dt {
-  font-weight: 700;
-}
-a {
-  color: #0c93e4;
-  text-decoration: underline;
-  text-decoration-skip: ink;
-}
-a:focus,
-a:hover {
-  text-decoration: none;
-}
-code,
-pre,
-samp {
-  font-family: Menlo, Consolas, Monaco, Adwaita Mono, Liberation Mono, Lucida Console, monospace;
-  font-size: .85em;
-}
-code *,
-pre *,
-samp * {
-  font-size: inherit;
-}
-blockquote {
-  padding-left: 1.5em;
-  border-left: 5px solid rgba(0,0,0,.1);
-}
-code {
-  background-color: rgba(0,0,0,.05);
-  border-radius: 3px;
-  padding: 2px 4px;
-}
-hr {
-  border: 0;
-  border-top: 1px solid hsla(0,0%,50%,.33);
-  margin: 2em 0;
-}
-pre>code {
-  background-color: rgba(0,0,0,.05);
-  display: block;
-  padding: .5em;
-  -webkit-text-size-adjust: none;
-  overflow-x: auto;
-  white-space: pre;
-}
-.toc ul {
-  list-style-type: none;
-  padding-left: 20px;
-}
-table {
-  background-color: transparent;
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-td,
-th {
-  border-right: 1px solid #dcdcdc;
-  padding: 8px 12px;
-}
-td:last-child,
-th:last-child {
-  border-right: 0;
-}
-td {
-  border-top: 1px solid #dcdcdc;
-}
-mark {
-  background-color: #f8f840;
-}
-kbd {
-  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, Adwaita Sans, Cantarell, Ubuntu, roboto, noto, helvetica, arial, sans-serif;
-  background-color: #fff;
-  border: 1px solid rgba(63,63,63,.25);
-  border-radius: 3px;
-  box-shadow: 0 1px 0 rgba(63,63,63,.25);
-  color: #333;
-  display: inline-block;
-  font-size: .8em;
-  margin: 0 .1em;
-  padding: .1em .6em;
-  white-space: nowrap;
-}
-abbr[title] {
-  border-bottom: 1px dotted #777;
-  cursor: help;
-}
-img {
-  max-width: 100%;
-}
-</style>

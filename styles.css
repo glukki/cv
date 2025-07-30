@@ -1,0 +1,130 @@
+body,
+html {
+  color: rgba(0,0,0,.75);
+  font-size: 16px;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, Adwaita Sans, Cantarell, Ubuntu, roboto, noto, helvetica, arial, sans-serif;
+  font-variant-ligatures: common-ligatures;
+  line-height: 1.67;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+blockquote,
+dl,
+ol,
+p,
+pre,
+ul {
+  margin: .5em 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 1em 0 .5em;
+  line-height: 1.33;
+}
+h1:after,
+h2:after {
+  content: "";
+  display: block;
+  position: relative;
+  top: .33em;
+  border-bottom: 1px solid hsla(0,0%,50%,.33);
+}
+ol ol,
+ol ul,
+ul ol,
+ul ul {
+  margin: 0;
+}
+dt {
+  font-weight: 700;
+}
+a {
+  color: #0c93e4;
+  text-decoration: underline;
+  text-decoration-skip: ink;
+}
+a:focus,
+a:hover {
+  text-decoration: none;
+}
+code,
+pre,
+samp {
+  font-family: Menlo, Consolas, Monaco, Adwaita Mono, Liberation Mono, Lucida Console, monospace;
+  font-size: .85em;
+}
+code *,
+pre *,
+samp * {
+  font-size: inherit;
+}
+blockquote {
+  padding-left: 1.5em;
+  border-left: 5px solid rgba(0,0,0,.1);
+}
+code {
+  background-color: rgba(0,0,0,.05);
+  border-radius: 3px;
+  padding: 2px 4px;
+}
+hr {
+  border: 0;
+  border-top: 1px solid hsla(0,0%,50%,.33);
+  margin: 2em 0;
+}
+pre>code {
+  background-color: rgba(0,0,0,.05);
+  display: block;
+  padding: .5em;
+  -webkit-text-size-adjust: none;
+  overflow-x: auto;
+  white-space: pre;
+}
+.toc ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+table {
+  background-color: transparent;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+td,
+th {
+  border-right: 1px solid #dcdcdc;
+  padding: 8px 12px;
+}
+td:last-child,
+th:last-child {
+  border-right: 0;
+}
+td {
+  border-top: 1px solid #dcdcdc;
+}
+mark {
+  background-color: #f8f840;
+}
+kbd {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, Adwaita Sans, Cantarell, Ubuntu, roboto, noto, helvetica, arial, sans-serif;
+  background-color: #fff;
+  border: 1px solid rgba(63,63,63,.25);
+  border-radius: 3px;
+  box-shadow: 0 1px 0 rgba(63,63,63,.25);
+  color: #333;
+  display: inline-block;
+  font-size: .8em;
+  margin: 0 .1em;
+  padding: .1em .6em;
+  white-space: nowrap;
+}
+abbr[title] {
+  border-bottom: 1px dotted #777;
+  cursor: help;
+}
+img {
+  max-width: 100%;
+}
