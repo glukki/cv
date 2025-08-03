@@ -119,6 +119,16 @@ Project closed soon after making the first working version.
 Techs: python, google app engine, protobuf, memcached
 
 
+### Monit
+2009-2010
+
+An SPA to track cars location.
+It used Google Maps API and server polling to update locations in real time.
+Coordinates were sent from the laptops in the cars to the server by a simple Windows app over the HTTP.
+
+Techs: javascript, xhtml, css, svg, google maps api, php, mysql, apache, linux
+
+
 ### LEGO Storage System
 2025
 
