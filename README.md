@@ -124,7 +124,8 @@ Techs: python, google app engine, protobuf, memcached
 
 An SPA to track cars location.
 It used Google Maps API and server polling to update locations in real time.
-Coordinates were sent from the laptops in the cars to the server by a simple Windows app over the HTTP.
+Coordinates were sent from the laptops in the cars to the server by a simple Windows app over the HTTP. <br>
+IYKYK: Dead-Line, DzzzR, CX ;)
 
 Techs: javascript, xhtml, css, svg, google maps api, php, mysql, apache, linux
 
