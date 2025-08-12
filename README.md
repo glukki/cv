@@ -46,12 +46,12 @@ Booking: https://getsquire.com/booking/brands/glassbox
 - Errors and performance monitoring
 
 #### Achievements
-- Implemented features like: map with clusters, shop/barber/service/time search and select, barber/client available time intersection, flexible tipping, auth and registration, payment processing, wait list, confirmation, emails, feedback collection, app branding and theming, geo-search
-- Simplified shopping cart state management
+- Moved shopping cart management from client to the server
+- Fixed app performance issues caused by event loop blocking
+- Improved team velocity by reducing CI/CD pipelines time 10x
+- Created shared tsconfig/eslint/prettier configs
 - Integrated Google Maps, Google Calendar, Google Analytics
-- Investigated and fixed performance issues, bundles bloating
-- Raised code quality by creating shared code quality control configuration
-- Improved CI/CD pipelines, reduced deployment time 10x
+- Implemented features: map with clusters, shop/barber/service/time search and select, barber-client time intersection, auth and registration, payment processing, email templates, feedback collection, app branding and theming, geo-search
 
 Techs: apple pay, aws, bull, chai, ci/cd, cloudflare workers, css, cypress, datadog, date-fns, docker, eslint, express.js, figma, framer-motion, fullstory, google calendar, google maps, google pay, html, i18next, jenkins, jest, jwt, kafka, launchdarkly, mapbox, microservices, mocha, moment.js, monorepo, nest.js, next.js, node.js, npm, oauth, passport.js, postgis, postgresql, prettier, prisma, react, react-query, redis, rest api, s3, sentry, sequelize, storybook, stripe, styled-components, styled-system, svg, typescript, webpack, yarn
 
