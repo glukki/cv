@@ -2,7 +2,7 @@
 
 I'm a Fullstack Web Engineer with 15+ years of experience, including 10+ years of working remotely with startups and growing companies.
 
-My primary tools: TypeScript, React, Node.js, shell. I love Rust, have Python experience, and just stated learning Go.
+My primary tools: TypeScript, React, Node.js, shell. I love Rust, have Python experience, and just started learning Go.
 
 I'm seeking a B2B engagement with a company outside of Spain. Or a direct employment with a visa sponsorship in Spain. This is due to the limitations of my Digital Nomad visa.
 
