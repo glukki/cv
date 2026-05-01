@@ -4,7 +4,7 @@ I'm a Fullstack Web Engineer with 15+ years of experience, including 10+ years o
 
 My primary tools: TypeScript, React, Node.js, shell. I love Rust, have Python experience, and just started learning Go.
 
-I'm seeking a B2B engagement with a company outside of Spain. Or a direct employment with a visa sponsorship in Spain. This is due to the limitations of my Digital Nomad visa.
+I'm seeking a B2B engagement with a company registered outside of Spain. This is due to the limitations of my Digital Nomad visa.
 
 Location: Gandia, Valencia, Spain <br>
 Residence: Spain, Digital Nomad visa <br>
@@ -22,6 +22,29 @@ GitHub: https://github.com/glukki
 
 
 ## Experience
+
+### Senior Fullstack Engineer
+Intento · 2025 - Present · United States · Remote Full-time
+
+https://inten.to
+
+#### Projects
+- Designed and implemented end-to-end usage and billing systems, tracking metrics across multiple microservices and workers.
+- Developed a centralized microfrontend service to visualize complex billing data, combining usage metrics with pricing models.
+- Led the migration of multiple repositories from Python's `pip` to `uv` package manager, ensuring dependency tree pinning and optimizing CI/CD infrastructure.
+- Built a standardized React UI component library utilizing shadcn/ui to enforce corporate design consistency.
+
+#### Responsibilities
+- Mentored team members on adopting advanced AI tools and development workflows to significantly enhance development speed and code quality.
+- Implemented robust data logging mechanisms across the core jobs processing pipeline, streaming usage data via Kafka to ClickHouse for real-time reporting.
+- Developed solutions to enhance the automated translation pipeline's monitoring and reporting capabilities.
+
+#### Achievements
+- Enabled detailed, real-time usage reporting for a key client, preventing potential churn and providing deep operational insights.
+- Improved CI/CD efficiency and reliability by standardizing dependency management across diverse services.
+
+Techs: aws, ci/cd, claude code, clickhouse, css, date-fns, docker, eslint, figma, fullstory, github actions, grafana, helm charts, html, k8s, kafka, microfrontend, microservices, moment.js, monorepo, nest.js, node.js, npm, openapi, orval, pandas, postgresql, prettier, python, react, redis, rest api, ruff, s3, sentry, shadcn, storybook, tailwind, tanstack query, tanstack virtual, typescript, uv, vite, vitest, webpack, yarn
+
 
 ### Web Engineer
 Squire · 2020 - 2025 · United States · Remote Full-time
@@ -182,4 +205,4 @@ Engineer's degree, Management Information Systems and Services
 
 
 ## Techs
-Apple Pay, AWS, Bash/Fish, Bull, Chai, CI/CD, Cloudflare Workers, Cron, CSS, Cypress, Datadog, date-fns, Deno, Docker, ESlint, Express.js, Figma, Framer-Motion, Fullstory, Git, Github Actions, Go, Google Analytics, Google Calendar, Google Maps, Google Pay, GraphQL, HTML, i18next, Jenkins, Jest, JWT, Kafka, LaunchDarkly, Linux, Lit, Mapbox, microservices, Mocha, Moment.js, MongoDB, monorepo, MySQL, neovim, Nest.js, Next.js, Nginx, NixOS, Node.js, npm, OAuth, Parcel, Passport.js, PostGIS, PostgreSQL, Prettier, Prisma, Python, Radicle, React, React-Query, Redis, Rest API, Rust, S3, Sentry, Sequelize, SSR, Storybook, Stripe, Styled-Components, Styled-System, SVG, Tailwind, TypeScript, WebdriverIO, Webpack, WebStorm, Yarn, Zellij, Zustand
+Apple Pay, AWS, Bash/Fish, Bull, Chai, CI/CD, Claude Code, Clickhouse, Cloudflare Workers, Cron, CSS, Cypress, Datadog, Date-fns, Deno, Docker, ESlint, Express.js, Figma, Framer-Motion, Fullstory, Git, GitHub Actions, Go, Google Analytics, Google Calendar, Google Maps, Google Pay, Grafana, GraphQL, Helm Charts, HTML, Jenkins, Jest, JWT, k8s, Kafka, LaunchDarkly, Linux, Lit, Mapbox, microfrontend, microservices, Mocha, Moment.js, MongoDB, monorepo, MySQL, neovim, Nest.js, Next.js, Nginx, NixOS, Node.js, NPM, OAuth, OpenAPI, Orval, Pandas, Parcel, Passport.js, PostGIS, PostgreSQL, Prettier, Prisma, Python, Radicle, React, Redis, Rest API, Ruff, Rust, S3, Sentry, Sequelize, shadcn, SSR, Storybook, Stripe, Styled-Components, Styled-System, SVG, Tailwind CSS, Tanstack Query, Tanstack Virtual, TypeScript, uv, Vite, Vitest, WebdriverIO, Webpack, WebStorm, Yarn, Zellij, Zustand
