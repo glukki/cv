@@ -16,6 +16,7 @@ Languages: English (fluent), Spanish (basic), Russian (native)
 
 Email: vital.mesh@gmail.com <br>
 Phone: +34685531087 <br>
+Telegram: https://t.me/glukki <br>
 LinkedIn: https://linkedin.com/in/glukki <br>
 GitHub: https://github.com/glukki
 
