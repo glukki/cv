@@ -9,7 +9,7 @@ DST_EXT := .pdf
 build: $(DST_NAME)$(DST_EXT)
 
 $(DST_NAME)$(DST_EXT): $(SRC_NAME)$(SRC_EXT)
-	cat $(SRC_NAME)$(SRC_EXT) | npx md-to-pdf \
+	cat "$<" | npx md-to-pdf \
 	--stylesheet styles.css \
 	--pdf-options '{"format": "A4", "margin": "15mm", "printBackground": true}' \
-	> $(DST_NAME)$(DST_EXT)
+	> "$@"
