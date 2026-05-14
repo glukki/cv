@@ -1,13 +1,15 @@
 .DELETE_ON_ERROR:
 
-SRC_FILE := README.md
-OUT_FILE := Vitalii\ Meshchaninov\ -\ Web\ Engineer.pdf
+SRC_NAME := README
+SRC_EXT := .md
+DST_NAME := Vitalii\ Meshchaninov\ -\ Web\ Engineer
+DST_EXT := .pdf
 
 .PHONY: build
-build: $(OUT_FILE)
+build: $(DST_NAME)$(DST_EXT)
 
-$(OUT_FILE): $(SRC_FILE)
-	cat $(SRC_FILE) | npx md-to-pdf \
+$(DST_NAME)$(DST_EXT): $(SRC_NAME)$(SRC_EXT)
+	cat $(SRC_NAME)$(SRC_EXT) | npx md-to-pdf \
 	--stylesheet styles.css \
 	--pdf-options '{"format": "A4", "margin": "15mm", "printBackground": true}' \
-	> $(OUT_FILE)
+	> $(DST_NAME)$(DST_EXT)
