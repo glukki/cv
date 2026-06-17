@@ -2,7 +2,7 @@
 
 SRC_NAME := README
 SRC_EXT := md
-DST_NAME := Vitalii\ Meshchaninov\ -\ Web\ Engineer
+DST_NAME := Vitalii\ Meshchaninov\ -\ Senior\ Fullstack\ Engineer
 DST_EXT := pdf
 
 SRCS := $(wildcard $(SRC_NAME)*$(SRC_EXT))
