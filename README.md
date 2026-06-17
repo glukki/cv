@@ -1,14 +1,14 @@
 # Vitalii Meshchaninov
 
-I'm a Fullstack Web Engineer with 15+ years of experience, including 10+ years of working remotely with startups and growing companies.
+I'm a Senior Fullstack Engineer with 15+ years of experience, including 10+ years of working remotely with startups and growing companies. I have a lot of experience in Frontend, Backend, CI/CD, architecture, and problems solving. I've learned a lot about AI/Agentic software engineereng over the past 3 years, and now share best practices with my colleagues.
 
-My primary tools: TypeScript, React, Node.js, shell. I love Rust, have Python experience, and just started learning Go.
+My primary tools are: TypeScript, React, Node.js, shell, Claude Code. I have Python experience, and learning Go and Rust now.
 
-I'm seeking a B2B engagement with a company registered outside of Spain. This is due to the limitations of my Digital Nomad visa.
+I'm seeking a B2B remote engagement with a company registered outside of Spain. This is due to the limitations of my Digital Nomad visa.
 
 Location: Gandia, Valencia, Spain <br>
 Residence: Spain, Digital Nomad visa <br>
-Languages: English (fluent), Spanish (basic), Russian (native)
+Languages: English (fluent), Russian (native), Spanish (basic)
 
 
 
@@ -36,7 +36,7 @@ https://inten.to
 - Built a standardized React UI component library utilizing shadcn/ui to enforce corporate design consistency.
 
 #### Responsibilities
-- Mentored team members on adopting advanced AI tools and development workflows to significantly enhance development speed and code quality.
+- Mentored team members on adopting AI/Agentic development tools and workflows to significantly enhance development speed and code quality.
 - Implemented robust data logging mechanisms across the core jobs processing pipeline, streaming usage data via Kafka to ClickHouse for real-time reporting.
 - Developed solutions to enhance the automated translation pipeline's monitoring and reporting capabilities.
 

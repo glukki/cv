@@ -1,12 +1,14 @@
 # Vitalii Meshchaninov
 
-Soy ingeniero web full-stack con más de 15 años de experiencia, incluidos más de 10 años trabajando a distancia con startups y empresas en expansión.
+Soy un ingeniero full-stack sénior con más de 15 años de experiencia, incluyendo más de 10 años trabajando en remoto con startups y empresas en crecimiento. Tengo amplia experiencia en frontend, backend, CI/CD, arquitectura y resolución de problemas. En los últimos 3 años, he aprendido mucho sobre ingeniería de software con IA/agentes y ahora comparto las mejores prácticas con mis compañeros.
 
-Mis herramientas principales: TypeScript, React, Node.js y shell. Me encanta Rust, tengo experiencia en Python y acabo de empezar a aprender Go.
+Mis herramientas principales son: TypeScript, React, Node.js, shell y Claude Code. Tengo experiencia con Python y actualmente estoy aprendiendo Go y Rust.
+
+Busco un proyecto B2B remoto con una empresa registrada fuera de España. Esto se debe a las limitaciones de mi visa de nómada digital.
 
 Ubicación: Gandía, Valencia, España <br>
 Residencia: España, visado de nómada digital <br>
-Idiomas: inglés (fluido), español (básico), ruso (nativo)
+Idiomas: inglés (fluido), ruso (nativo), español (básico)
 
 
 
@@ -34,7 +36,7 @@ https://inten.to
 - Creé una biblioteca estandarizada de componentes de interfaz de usuario (UI) de React utilizando shadcn/ui para garantizar la coherencia del diseño corporativo.
 
 #### Responsabilidades
-- Asesoré a los miembros del equipo en la adopción de herramientas avanzadas de IA y flujos de trabajo de desarrollo para mejorar significativamente la velocidad de desarrollo y la calidad del código.
+- Asesoré a los miembros del equipo en la adopción de herramientas y flujos de trabajo de desarrollo de IA/Agent para mejorar significativamente la velocidad de desarrollo y la calidad del código.
 - Implementé mecanismos robustos de registro de datos en toda la canalización de procesamiento de trabajos principales, transmitiendo datos de uso a través de Kafka a ClickHouse para la generación de informes en tiempo real.
 - Desarrollé soluciones para mejorar las capacidades de supervisión y generación de informes de la canalización de traducción automatizada.
 
